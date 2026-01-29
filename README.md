@@ -19,7 +19,7 @@ Platform: Google Earth Engine
 
 Access Link: [data_download link]
 
-Description: The dataset contains [Number] pairs of high-resolution Sentinel-2 imagery and pixel-level annotations, covering diverse tidal flat morphologies across China's coastline.
+Description: The dataset contains [1136] pairs of high-resolution Sentinel-2 imagery and pixel-level annotations, covering diverse tidal flat morphologies across China's coastline.
 
 Note: You need a valid GEE account to access and download the data.
 
