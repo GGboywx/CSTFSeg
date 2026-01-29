@@ -1,9 +1,5 @@
 CSTFSeg: Boundary-Aware Tidal Flat Segmentation Network
-This repository contains the official implementation of the paper:
 
-"[Insert Your Paper Title Here]" (Accepted by [Journal Name], 202X)
-
-Abstract: This work introduces CSTFSeg, a specialized deep learning framework designed for tidal flat segmentation in remote sensing imagery. By integrating a differentiable Fuzzy Layer (to model mixed pixels) and an Edge-Guided Decoder (to preserve fractal tidal creeks), CSTFSeg significantly improves boundary precision in complex coastal environments.
 
 <div align="center"> <img src="[Link to your network architecture image or visualization result]" width="800"/> </div>
 
@@ -21,7 +17,7 @@ The China Sentinel-2 Tidal Flat (CSTF) dataset constructed in this work is hoste
 
 Platform: Google Earth Engine
 
-Access Link: [ Insert Your GEE Link / Script ID Here ]
+Access Link: [data_download link]
 
 Description: The dataset contains [Number] pairs of high-resolution Sentinel-2 imagery and pixel-level annotations, covering diverse tidal flat morphologies across China's coastline.
 
